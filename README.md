@@ -2,84 +2,64 @@
 
 # GrindLab Tracker
 
-**Le tracker de poker qui transforme tes mains en progrès.**
+**The poker tracker that turns your hands into progress.**
 
-Import automatique, statistiques justes, replayer, sessions et adversaires, synchronisés avec ton compte [GrindLab](https://grindlab.gg).
+Automatic import, accurate statistics, replayer, sessions and opponents, synced with your [GrindLab](https://grindlab.gg) account.
 
-[![Dernière version](https://img.shields.io/github/v/release/hitmyaa/grindlab-releases?label=version&color=22c55e&style=for-the-badge)](https://github.com/hitmyaa/grindlab-releases/releases/latest)
-[![Téléchargements](https://img.shields.io/github/downloads/hitmyaa/grindlab-releases/total?label=t%C3%A9l%C3%A9chargements&color=0ea5e9&style=for-the-badge)](https://github.com/hitmyaa/grindlab-releases/releases)
+[![Latest version](https://img.shields.io/github/v/release/hitmyaa/grindlab-releases?label=version&color=22c55e&style=for-the-badge)](https://github.com/hitmyaa/grindlab-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/hitmyaa/grindlab-releases/total?label=downloads&color=0ea5e9&style=for-the-badge)](https://github.com/hitmyaa/grindlab-releases/releases)
 ![Windows | macOS](https://img.shields.io/badge/Windows%20%7C%20macOS-111827?style=for-the-badge)
 
-### [⬇ Télécharger la dernière version](https://github.com/hitmyaa/grindlab-releases/releases/latest) · [grindlab.gg/download](https://grindlab.gg/download)
+### [⬇ Download the latest version](https://github.com/hitmyaa/grindlab-releases/releases/latest) · [grindlab.gg/download](https://grindlab.gg/download)
 
 </div>
 
 ---
 
-## Pourquoi GrindLab Tracker
+## Why GrindLab Tracker
 
-Tu joues, le tracker s'occupe du reste. Il surveille tes dossiers d'historiques, lit chaque main sur ta machine et l'envoie sur ton compte : tes stats sont à jour sur le tracker comme sur le web, sans export ni manipulation.
+You play, the tracker handles the rest. It watches your hand-history folders, reads every hand on your machine and syncs it to your account: your stats are up to date in the tracker and on the web, with no export and no manual step.
 
 | | |
 |---|---|
-| **Import automatique** | Désigne tes dossiers d'historiques une fois. Chaque nouvelle main est lue et synchronisée en arrière-plan, même pendant ta session. |
-| **Des stats qui comptent la bonne chose** | VPIP, PFR, 3-bet, squeeze, c-bet, fold to c-bet, check-raise, W$SD… Chaque stat ne compte que les mains où l'action était réellement possible. Les chiffres se comparent à ceux des trackers de référence. |
-| **Par format et par table** | Cash, MTT, Spin : jamais mélangés. Filtre par nombre de joueurs à table, par position, en position ou hors de position. |
-| **Tes adversaires** | Page Joueurs, fiche détaillée de chaque adversaire, combos montrés au showdown, HUD avec les stats de la table. |
-| **Replayer** | Revois chaque main street par street, annote-la, partage-la dans un cercle pour la faire relire. |
-| **Sessions et résultats** | Courbes de gains et d'EV, sessions, parties, résultats de tournoi en euros, objectifs de progression. |
-| **Tes données t'appartiennent** | Supprimer un héros le supprime vraiment : mains, stats et replays. Plusieurs PC sur le même compte, sans doublon. |
+| **Automatic import** | Point it at your hand-history folders once. Every new hand is read and synced in the background, even mid-session. |
+| **Stats that count the right thing** | VPIP, PFR, 3-bet, squeeze, c-bet, fold to c-bet, check-raise, W$SD… Every stat only counts the hands where the action was actually possible, and the numbers compare with the reference trackers. |
+| **By format and table size** | Cash, MTT and Spin are never mixed. Filter by players at the table, by position, in or out of position. |
+| **Your opponents** | Players page, a detailed profile for every opponent, showdown combos, and a HUD with the stats of the table. |
+| **Replayer** | Review every hand street by street, annotate it, and share it with a circle for feedback. |
+| **Sessions and results** | Winnings and EV curves, sessions, games, tournament results in real money, and progress goals. |
+| **Your data is yours** | Deleting a hero really deletes it: hands, stats and replays. Use several PCs on the same account, with no duplicates. |
 
-## Rooms prises en charge
+## Supported rooms
 
 Winamax · PokerStars · Betclic · Unibet · PMU · GGPoker · iPoker · CoinPoker
 
 ## Installation
 
-1. Télécharge l'installeur de ton système dans la [dernière version](https://github.com/hitmyaa/grindlab-releases/releases/latest) :
-   - **Windows** : le fichier `.exe`
-   - **macOS** : le fichier `.dmg` (Apple Silicon et Intel)
-2. Lance-le, puis connecte-toi avec ton compte GrindLab.
-3. Choisis tes rooms et tes dossiers d'historiques : l'import démarre.
+1. Download the installer for your system from the [latest release](https://github.com/hitmyaa/grindlab-releases/releases/latest):
+   - **Windows**: the `.exe` file
+   - **macOS**: the `.dmg` file (Apple Silicon and Intel)
+2. Run it and sign in with your GrindLab account.
+3. Pick your rooms and hand-history folders: the import starts.
 
-Les mises à jour s'installent ensuite automatiquement.
+Updates then install automatically.
 
-> **Windows :** au premier lancement, SmartScreen peut afficher « Windows a protégé votre ordinateur ». Clique sur *Informations complémentaires*, puis *Exécuter quand même*.
-> **macOS :** l'application est signée et notariée par Apple.
+> **Windows:** on first launch, SmartScreen may show "Windows protected your PC". Click *More info*, then *Run anyway*.
+> **macOS:** the app is signed and notarized by Apple.
 
-## Configuration requise
+## Requirements
 
-- Windows 10 ou 11 (64 bits), ou macOS 11 (Big Sur) et plus
-- Un compte [GrindLab](https://grindlab.gg)
-- Une connexion internet pour la synchronisation
+- Windows 10 or 11 (64-bit), or macOS 11 (Big Sur) and later
+- A [GrindLab](https://grindlab.gg) account
+- An internet connection for syncing
 
-## Besoin d'aide ?
+## Need help?
 
-- Guide du tracker : [grindlab.gg/guide](https://grindlab.gg/fr/guide)
-- Un bug, une idée : rejoins le Discord GrindLab et poste dans **#bug-report** ou **#feedback**
+- Tracker guide: [grindlab.gg/guide](https://grindlab.gg/en/guide)
+- A bug or an idea: join the GrindLab Discord and post in **#bug-report** or **#feedback**
 
 ---
 
-<details>
-<summary><b>English</b></summary>
-
-### GrindLab Tracker
-
-**The poker tracker that turns your hands into progress.** Automatic import, accurate statistics, replayer, sessions and opponents, synced with your [GrindLab](https://grindlab.gg) account.
-
-- **Automatic import**: point it at your hand-history folders once; every new hand is read on your machine and synced in the background.
-- **Stats that count the right thing**: every statistic only counts the hands where the action was actually possible, and compares with the reference trackers.
-- **By format and table size**: cash, MTT and Spin are never mixed; filter by players at the table, position, in or out of position.
-- **Opponents**: Players page, detailed profiles, showdown combos, HUD.
-- **Replayer**: review every hand street by street, annotate it, share it with a circle.
-- **Your data is yours**: deleting a hero really deletes it; several PCs on one account, no duplicates.
-
-**Rooms:** Winamax, PokerStars, Betclic, Unibet, PMU, GGPoker, iPoker, CoinPoker.
-
-**Download:** [latest release](https://github.com/hitmyaa/grindlab-releases/releases/latest) (`.exe` for Windows, `.dmg` for macOS). Updates install automatically.
-
-</details>
-
 <div align="center">
-<sub>Code source privé · Ce dépôt ne publie que les installeurs · © GrindLab</sub>
+<sub>Private source code · This repository only publishes the installers · © GrindLab</sub>
 </div>
